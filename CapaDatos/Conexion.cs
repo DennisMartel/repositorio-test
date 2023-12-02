@@ -9,7 +9,7 @@ namespace CapaDatos
 {
     public class Conexion
     {
-        private SqlConnection con = new SqlConnection("Data Source="+Dns.GetHostName() + WindowsIdentity.GetCurrent().Name + ";Initial Catalog=sistema_usuarios;Integrated Security=True");
+        private SqlConnection con = new SqlConnection("Data Source="+Dns.GetHostName()+";Initial Catalog=sistema_usuarios;User ID="+WindowsIdentity.GetCurrent().Name+ ";Integrated Security=True");
 
         public SqlConnection AbrirConexion()
         {
