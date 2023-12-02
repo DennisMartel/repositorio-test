@@ -1,0 +1,15 @@
+C:\Users\Dennis Alexander\Desktop\sistema_usuarios\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Dennis Alexander\Desktop\sistema_usuarios\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Dennis Alexander\Desktop\sistema_usuarios\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Dennis Alexander\Desktop\sistema_usuarios\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Dennis Alexander\Desktop\sistema_usuarios\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Dennis Alexander\Desktop\sistema_usuarios\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Dennis Alexander\Desktop\sistema_usuarios\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Dennis Alexander\Desktop\sistema_usuarios\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Dennis Alexander\Desktop\sistema_usuarios\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Dennis Alexander\Desktop\sistema_usuarios\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Dennis Alexander\Desktop\sistema_usuarios\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Dennis Alexander\Desktop\sistema_usuarios\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Dennis Alexander\Desktop\sistema_usuarios\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Dennis Alexander\Desktop\sistema_usuarios\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Dennis Alexander\Desktop\sistema_usuarios\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
